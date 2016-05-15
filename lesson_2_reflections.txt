@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 It adds the special .git file needed to run git
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area has files has redy to commit to repository. The working directory is simply the physical space that files, repository and staging area reside in.
